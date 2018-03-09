@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "methods": "1.1.2",
-    "odata-parser": "1.4.1",
+    "odata-parser": "git+https://github.com/HardingPoint/node-odata-parser.git",
     "path-to-regexp": "2.1.0",
     "safe-buffer": "5.1.1",
     "xmlbuilder": "9.0.4"
