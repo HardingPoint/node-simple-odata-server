@@ -1,7 +1,7 @@
 {
   "name": "simple-odata-server",
-  "version": "1.0.0",
-  "description": "OData server with adapter for mongodb and nedb",
+  "version": "2.0.0",
+  "description": "OData server :  Harding Point Fixes for GRAX",
   "main": "index.js",
   "scripts": {
     "test": "standard && mocha --exit -R spec"
