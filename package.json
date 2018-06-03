@@ -1,6 +1,6 @@
 {
   "name": "simple-odata-server",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "OData server :  Harding Point Fixes for GRAX",
   "main": "index.js",
   "scripts": {
